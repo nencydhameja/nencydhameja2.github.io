@@ -1,7 +1,7 @@
 main:
-  - title: "About"
-    url: /about/
-  - title: "CV"
+  # - title: "About"
+  #   url: /about/
+  - title: "Curriculum Vitae"
     url: /CV/
   - title: "Research"
     url: /research/
