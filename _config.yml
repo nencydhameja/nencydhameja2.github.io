@@ -96,7 +96,7 @@ defaults:
       layout: about  # use your about‐page layout
       permalink: /:name/   # nice URLs, e.g. /about/
       title: "About"       # fallback title
-      search: false        # exclude from search if you like
+      # search: false        # exclude from search if you like
   # _posts
   # - scope:
   #     path: ""
