@@ -1,6 +1,6 @@
 ---
-permalink: /
 permalink: /about/
+permalink: /
 title: "About"
 ---
 
