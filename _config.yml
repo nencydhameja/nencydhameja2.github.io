@@ -89,25 +89,25 @@ footer:
   #     url: "https://instagram.com/"
 
 defaults:
-  - scope:
-      path: ""       # root of your project
-      type: pages    # builtin “pages” type
+  # - scope:
+      # path: ""       # root of your project
+      # type: pages    # builtin “pages” type
     # values:
       # layout: about  # use your about‐page layout
       # permalink: /:about/   # nice URLs, e.g. /about/
       # title: "About"       # fallback title
       # search: false        # exclude from search if you like
   # _posts
-  # - scope:
-  #     path: ""
-  #     type: posts
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     read_time: true
-  #     comments: true
-  #     share: true
-  #     related: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: "_pages"
