@@ -92,10 +92,10 @@ defaults:
   - scope:
       path: ""       # root of your project
       type: pages    # builtin “pages” type
-    values:
-      layout: about  # use your about‐page layout
-      permalink: /:about/   # nice URLs, e.g. /about/
-      title: "About"       # fallback title
+    # values:
+      # layout: about  # use your about‐page layout
+      # permalink: /:about/   # nice URLs, e.g. /about/
+      # title: "About"       # fallback title
       # search: false        # exclude from search if you like
   # _posts
   # - scope:
