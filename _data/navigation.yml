@@ -2,7 +2,7 @@ main:
   # - title: "About"
   #   url: /about/
   - title: "Curriculum Vitae"
-    url: /CV/
+    url: "/assets/images/bio-photo.jpg"
   - title: "Research"
     url: /research/
   - title: "Teaching"
